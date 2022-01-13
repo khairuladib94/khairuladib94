@@ -1,8 +1,8 @@
 ### Hi, Adib's here 👋
-- 💼 I work at Universiti Putra Malaysia as a senior lecturer.
+- 💼 I work at [Universiti Putra Malaysia](https://upm.edu.my/) as a senior lecturer.
 - 🔬 My research interests include non-seismic earthquake precursor and anything related to data science and machine learning. 
 - 💬 My mother tongue is MATLAB.
-- 🤝 I am open for any collaboration, hit me up at [adib.yusof@gmail.com](mailto:adib.yusof@gmail.com)!
+- 🤝 I am open for any collaboration, hit me up here at GitHub or email me at [adib.yusof@gmail.com](mailto:adib.yusof@upm.edu.my)!
 
 <!--
 **khairuladib94/khairuladib94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
