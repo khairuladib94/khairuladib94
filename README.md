@@ -1,4 +1,4 @@
-_Hi, Adib's here_ 👋
+_Hi, Adib's here!_ 👋
 
 🎓 I hold a Ph.D. in Space Science and currently teach physics at [Universiti Putra Malaysia](https://upm.edu.my/).\
 🔬 My [research interests](https://www.researchgate.net/profile/Khairul-Adib-Yusof) include non-seismic earthquake precursors and anything related to data science and machine learning.\
