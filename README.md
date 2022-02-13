@@ -2,5 +2,5 @@ _Hi, Adib's here!_ 👋
 
 🎓 I hold a Ph.D. in Space Science and currently teach physics at [Universiti Putra Malaysia](https://upm.edu.my/).\
 🔬 My [research interests](https://www.researchgate.net/profile/Khairul-Adib-Yusof) include non-seismic earthquake precursors and anything related to data science and machine learning.\
-💬 I code in `MATLAB`; yes, I start my arrays at 1 work in a ✨ *blindingly light IDE* ✨.\
+💬 I code in `MATLAB`.\
 🤝 I am open for any collaboration, [hit me up here on GitHub](https://github.com/khairuladib94/khairuladib94/issues/new) or e-mail me at [adib.yusof@upm.edu.my](mailto:adib.yusof@upm.edu.my)!
