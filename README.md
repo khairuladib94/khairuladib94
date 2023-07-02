@@ -1,4 +1,4 @@
-_Hi, Adib's here!_ 🙋🏼‍♂️
+_Hi, Adib's here!_ 👨🏼‍💻
 
 💼 Senior lecturer at Universiti Putra Malaysia\
 🎓 Ph.D. in Space Science from Universiti Kebangsaan Malaysia\
